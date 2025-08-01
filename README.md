@@ -1,7 +1,7 @@
 # Sneaker & Streetwear Sales Analysis 👟📊
 
 ## 📝 Deskripsi
-Proyek ini berfokus pada analisis data penjualan produk sneakers dan streetwear. Tujuan dari analisis ini adalah untuk mengevaluasi performa penjualan, mengidentifikasi tren perilaku konsumen, serta memberikan insight yang berguna untuk pengambilan keputusan bisnis.
+Proyek ini menganalisis data penjualan produk sneakers dan streetwear selama periode Januari hingga Agustus. Analisis difokuskan pada performa brand, tren penjualan, distribusi metode pembayaran, dan wilayah geografis penjualan. Hasilnya divisualisasikan dalam dashboard interaktif untuk mendukung pengambilan keputusan bisnis.
 
 ## 📦 File Proyek
 - `sneakers_streetwear_sales_data.xlsx` – Dataset penjualan produk
@@ -11,7 +11,7 @@ Proyek ini berfokus pada analisis data penjualan produk sneakers dan streetwear.
 - **Google Sheet** untuk eksplorasi dan pembersihan data
 - **Looker Studio** untuk visualisasi data
 
-## 🔍 Highlight Insight (asumsi berdasarkan proyek umum)
+## 🔍 Insight Utama
 - 💰 **Total Income:** $193.103,78
 - 📦 **Total Units Sold:** 1.097
 - 🧾 **Total Transactions:** 353
