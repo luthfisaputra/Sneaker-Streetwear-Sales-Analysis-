@@ -17,11 +17,12 @@ Proyek ini menganalisis data penjualan produk sneakers dan streetwear dari toko 
 - Kota A dan B merupakan pasar potensial utama.
 
 ## 📊 Preview Dashboard
-(Sertakan screenshot jika ada, misalnya `dashboard.png`)
+<img width="887" height="665" alt="image" src="https://github.com/user-attachments/assets/20feb88f-9270-4a42-9857-6ae2679f3743" />
+
 
 ---
 
 ## 📫 Kontak
 Untuk kolaborasi atau pertanyaan:
-- [LinkedIn kamu](www.linkedin.com/in/muhammad-luthfi-saputra-058a44316)
-- [Email kamu](luthfsptr@gmail.com)
+- [LinkedIn](www.linkedin.com/in/muhammad-luthfi-saputra-058a44316)
+- [Email](luthfsptr@gmail.com)
