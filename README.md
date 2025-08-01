@@ -1,28 +1,28 @@
 # Sneaker & Streetwear Sales Analysis 👟📊
 
 ## 📝 Deskripsi
-Proyek ini menganalisis data penjualan produk sneakers dan streetwear dari toko online dan offline. Tujuannya adalah untuk memahami tren pembelian, performa produk, serta memberikan insight strategis untuk peningkatan penjualan.
+Proyek ini berfokus pada analisis data penjualan produk sneakers dan streetwear. Tujuan dari analisis ini adalah untuk mengevaluasi performa penjualan, mengidentifikasi tren perilaku konsumen, serta memberikan insight yang berguna untuk pengambilan keputusan bisnis.
 
-## 📦 File
-- `sneakers_streetwear_sales_data.xlsx` – Dataset penjualan sneakers & streetwear
-- `Sneaker_&_Streetwear_Sales_Analysis_Dashboard.pdf` – Dashboard analisis hasil visualisasi
+## 📦 File Proyek
+- `sneakers_streetwear_sales_data.xlsx` – Dataset penjualan produk
+- `Sneaker_&_Streetwear_Sales_Analysis_Dashboard.pdf` – Dashboard visual dari hasil analisis (dalam format PDF)
 
 ## 🛠 Tools yang Digunakan
-- Microsoft Excel
-- Power BI / Looker Studio (dashboard format PDF)
+- **Microsoft Excel** untuk eksplorasi dan pembersihan data
+- **Power BI / Looker Studio** untuk visualisasi data
 
-## 🔍 Insight Utama (contoh)
-- Kategori produk "limited edition" menyumbang penjualan tertinggi.
-- Hari Sabtu dan Minggu adalah puncak pembelian.
-- Kota A dan B merupakan pasar potensial utama.
+## 🔍 Highlight Insight (asumsi berdasarkan proyek umum)
+- Produk edisi terbatas mendominasi penjualan tertinggi
+- Penjualan cenderung meningkat saat akhir pekan
+- Kota besar menjadi kontributor utama dalam volume transaksi
 
 ## 📊 Preview Dashboard
-<img width="887" height="665" alt="image" src="https://github.com/user-attachments/assets/20feb88f-9270-4a42-9857-6ae2679f3743" />
+<img width="2500" height="1876" alt="Sneaker_ _Streetwear_Sales_Analysis_Dashboard-1" src="https://github.com/user-attachments/assets/c0d6df17-c67e-45e5-9a1a-a0be5d6ed34d" />
 
 
 ---
 
 ## 📫 Kontak
-Untuk kolaborasi atau pertanyaan:
+Untuk kolaborasi, diskusi, atau masukan:
 - [LinkedIn](www.linkedin.com/in/muhammad-luthfi-saputra-058a44316)
 - [Email](luthfsptr@gmail.com)
